@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600;800&display=swap');
+
+.title{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+}
+
+.text{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header{
+    background: #069;
+    padding: 10px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.lista{
+    padding-left: 20px;
+    list-style: none;
+}
+
+.tecnologias{
+    padding: 20px;
+    text-align: center;
+}
+
+.tecnologias h3{
+    color: #069;
+}
+
+.hosted{
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.hosted img{
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
